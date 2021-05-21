@@ -40,7 +40,7 @@ function showNotes() {
            <p class="card-text">${element.text}</p>
            <button id="${index}" onclick="deleteNote(this.id)" class="btn btn-primary">Delete Note</button>
 
-           <button id="${index}" onclick="markImp(this.id)" class="btn btn-primary my-2">Mark Important</button>
+           
          </div>
        </div>`;
   });
