@@ -88,19 +88,7 @@ search.addEventListener("input", function () {
   });
 });
 
-//To mark important
-function markImp(index){
-    console.log("Important", index);
-    let impBtn = document.get
-    if(this.style.backgroundColor == 'red'){
-        this.style.backgroundColor=null;   
-         
-    }
-    else{
-        this.style.backgroundColor = 'red';
-    }    
-        
-};
+
 
 
 
